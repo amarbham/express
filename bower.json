@@ -1,0 +1,22 @@
+{
+  "name": "naughts-and-crosses",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Amar"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "angular-mocks": "^1.5.8"
+  }
+}
